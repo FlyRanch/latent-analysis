@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "latent-analysis"
 version = "0.1.0"
-description = ""
+description = "Johan Melis's latent analysis code."
 license = "MIT"
 authors = ["Johan Melis <jmelis@caltech.edu>"]
 readme = "README.md"
