@@ -1,3 +1,3 @@
-latent-analysis: 
+## latent-analysis: 
 
-Johan's latent analysis code.   
+Johan Miles's latent analysis code.   
