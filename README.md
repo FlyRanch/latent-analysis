@@ -29,6 +29,8 @@ Run the notebook
 jupyter notebook Latent_Variable_Analysis.ipynb
 ```
 
+---
+
 ![latent_analysis](images/latent_analysis_screenshot.png)
 
 
