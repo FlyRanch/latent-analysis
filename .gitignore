@@ -4,3 +4,4 @@
 *.egg-info
 *.h5
 dist
+plots
