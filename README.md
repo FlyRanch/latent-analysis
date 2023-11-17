@@ -3,8 +3,6 @@
 Software and Jupyter notebook for encoder/decoder latent analysis from Melis
 and Dickinson 2023.   
 
-![latent_analysis](images/latent_analysis_screenshot.png)
-
 ### Installation
 Download source and cd into source directory. Then to install using pip run 
 
@@ -31,6 +29,7 @@ Run the notebook
 jupyter notebook Latent_Variable_Analysis.ipynb
 ```
 
+![latent_analysis](images/latent_analysis_screenshot.png)
 
 
 
