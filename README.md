@@ -1,4 +1,4 @@
-## latent-analysis 
+![header](images/latent_analysis_header.png)
 
 Software and Jupyter notebook for encoder/decoder latent analysis from Melis
 and Dickinson 2023.   
