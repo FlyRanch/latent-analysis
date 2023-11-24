@@ -1,7 +1,7 @@
 ![header](images/latent_analysis_header.png)
 
-Software and Jupyter notebook for encoder/decoder latent analysis from Melis
-and Dickinson 2023.   
+Software and Jupyter notebook for encoder/decoder latent analysis from Melis,
+Siwanowicz, and Dickinson 2023.
 
 ### Installation
 Download source and cd into source directory. Then to install using pip run 
