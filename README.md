@@ -30,6 +30,8 @@ poetry install
 Software dependencies should be automatically downloaded during the
 installation. 
 
+Typical install time is 5-10min.
+
 ## Dataset and Jupyter notebook 
 
 Download the required dataset, main_muscle_and_wing_data.h5, from CaltechDATA
@@ -41,7 +43,6 @@ Run the notebook
 jupyter notebook Latent_Variable_Analysis.ipynb
 ```
 
-Typical install time is 5-10min.
 
 ---
 
