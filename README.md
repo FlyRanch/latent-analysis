@@ -32,7 +32,7 @@ installation.
 
 ## Dataset and Jupyter notebook 
 
-Download the required dataset, main_muscle_and_wing_data.h5, from CaltechData
+Download the required dataset, main_muscle_and_wing_data.h5, from CaltechDATA
 [here](https://data.caltech.edu/records/aypcy-ck464) and place the file in
 'notebook/dataset'.  
 
