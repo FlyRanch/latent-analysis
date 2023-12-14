@@ -1,7 +1,8 @@
 ![header](images/latent_analysis_header.png)
 
 Software and Jupyter notebook for performing the latent variable analysis from
-Melis, Siwanowicz, and Dickinson 2024.
+Melis, Siwanowicz, and Dickinson 2024. Contains code for generating data figure
+6 and extended data figure 8.
 
 ### System Requirements
 
